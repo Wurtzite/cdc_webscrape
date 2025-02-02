@@ -128,3 +128,6 @@ for idx, url in enumerate(gov_links, start=1):
         print(f"✅ Saved: {file_path}")
 
 print("\n🎯 All .gov pages scraped and saved successfully!")
+
+
+Usage: python git_all_repos.py
